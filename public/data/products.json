@@ -1,0 +1,131 @@
+{
+    "items": [
+      {
+        "category" : "Men's flip flop",
+        "description": "Fancy Outdoor flipflop for winter for that any casual look for your next outing.",
+        "discountedPrice": 290,
+        "price": 450,
+        "thumbnail": "prod1-brown.JPG",
+        "title": "BURMY",
+        "color":"brown"
+      },
+      {
+        "category" : "Men's flip flop",
+        "description": "Fancy Outdoor flipflop for winter for that any casual look for your next outing.",
+        "discountedPrice": 290,
+        "price": 450,
+        "thumbnail": "prod1-black.JPG",
+        "title": "BURMY",
+        "color":"black"
+      },
+      {
+        "color":"Brown",
+        "category" : "Men's slippers",
+        "description":"Multicolour Outdoor slippers for Those who want to keep up with fashion and those who like multicolored footwear.",
+        "discountedPrice": 350,
+        "price": 500,
+        "thumbnail": "prod2-brown.jpg",
+        "title": "Ethnic Slippers"
+      },
+      {
+        "color":"Black",
+        "category" : "Men's slippers",
+        "title": "Ethnic Slippers",
+        "description":"Multicolour Outdoor slippers for Those who want to keep up with fashion and those who like multicolored footwear.",
+        "discountedPrice": 350,
+        "price": 500,
+        "thumbnail": "prod2-black.jpg"
+        
+      },
+      {
+        "color":"pureBlack",
+        "category" : "Men's slippers",
+        "description": "Multicolour Outdoor slippers for Those who want to keep up with fashion and those who like multicolored footwear.",
+        "discountedPrice": 350,
+        "price": 500,
+        "thumbnail": "prod2-pureblack.jpg",
+        "title": "Ethnic Slippers"
+      },
+      {
+        "color":"Brown",
+        "description":"Fancy Outdoor Slippers for special occasion for that any casual look for your next outing",
+        "discountedPrice": 330,
+        "price": 480,
+        "thumbnail": "prod3-brown.jpg",
+        "category" : "Men's slippers",
+        "title": "Ethnic Slippers"
+      },
+      {
+        "color":"darkBrown",
+        "description": "Fancy Outdoor Slippers for special occasion for that any casual look for your next outing",
+        "discountedPrice": 330,
+        "price": 480,
+        "thumbnail": "prod3-darkBrown.JPG",
+        "category" : "Men's slippers",
+        "title": "Ethnic Slippers"
+      },
+      {
+        "color":"Black",
+        "description": "Fancy Outdoor Slippers for special occasion for that any casual look for your next outing",
+        "discountedPrice": 330,
+        "price": 480,
+        "thumbnail": "prod3-black.jpg",
+        "category" : "Men's slippers",
+        "title": "Ethnic Slippers"
+      },
+      {
+        "color":"darkBrown",
+        "description": "New casual look slippers with you can go anywhere, this will fit everywhere.",
+        "discountedPrice": 299,
+        "price": 480,
+        "thumbnail": "prod4.JPG",
+        "category" : "Men's slippers",
+        "title": "Work Slippers"
+      },
+      {
+        "color":"Green",
+        "description": "Outdoor Slippers/Sandals for special occasions/ casual wear/office",
+        "discountedPrice": 360,
+        "price": 480,
+        "thumbnail": "prod5-green.JPG",
+        "category" : "Ladies Sandals",
+        "title": "Ethnic Slippers"
+      },
+      {
+        "color":"Pink",
+        "description": "Outdoor Slippers/Sandals for special occasions/ casual wear/office",
+        "discountedPrice": 360,
+        "price": 480,
+        "thumbnail": "prod5-pink.JPG",
+        "category" : "Ladies Sandals",
+        "title": "Ethnic Slippers"
+      },
+      {
+        "color":"Grey",
+        "description":"You can wear these slippers to a party, they will give you immense comfort and will be easy to wear for a long time.",
+        "discountedPrice": 400,
+        "price": 560,
+        "thumbnail": "prod6-grey.JPG",
+        "category" : "Ladies Sandals",
+        "title": "Ethnic Slippers"
+      },
+      {
+        "color":"Green",
+        "description":"You can wear these slippers to a party, they will give you immense comfort and will be easy to wear for a long time.",
+        "discountedPrice": 400,
+        "price": 560,
+        "thumbnail": "prod6-green.JPG",
+        "category" : "Ladies Sandals",
+        "title": "Ethnic Slippers"
+      },
+      {
+        "color":"Black",
+        "description": "You can wear these slippers to a party, they will give you immense comfort and will be easy to wear for a long time.",
+        "discountedPrice": 400,
+        "price": 560,
+        "thumbnail": "prod6-black.JPG",
+        "category" : "Ladies Sandals",
+        "title": "Ethnic Slippers"
+      }
+    ]
+  }
